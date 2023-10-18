@@ -1,0 +1,1 @@
+Mars Big O = (n) as the array is only entered once and the code contains one for loop.
