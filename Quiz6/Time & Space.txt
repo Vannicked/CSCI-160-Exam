@@ -1,0 +1,1 @@
+Runtime and Space both equal Big O(n) as it runs through the array and prints what it finds.
