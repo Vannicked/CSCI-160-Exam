@@ -1,2 +1,2 @@
 RunningTime.java has a base case runtime of O(n) as the program will return 0 if the length of the array is 1 or less (cause there's no possibility for a shift.)
-The worst case would be if the array was inserted backwards which means there'd have to be a shift at each index making the runtime O(n^n) and average case would be O(n^2).
+The worst case would be if the array was inserted backwards which means there'd have to be a shift at each index making the runtime O(n^2) and average case would be O(n^2).
